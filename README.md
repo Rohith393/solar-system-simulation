@@ -8,7 +8,7 @@ This project is a **3D simulation of the Solar System** built using **Three.js**
 
 ## 🔗 Live Demo
 
-👉 [View Demo](https://your-demo-link.vercel.app) 
+👉 [View Demo](https://solar-system-simulation-virid.vercel.app/) 
 
 ---
 
